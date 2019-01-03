@@ -1,0 +1,10 @@
+export default [
+    { id: 1, title: 'Card #1', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-04.jpg' },
+    { id: 2, title: 'Card #2', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://www.fluxdigital.co/wp-content/uploads/2015/04/Unsplash.jpg' },
+    { id: 3, title: 'Card #3', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-09.jpg' },
+    { id: 4, title: 'Card #4', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-01.jpg' },
+    { id: 5, title: 'Card #5', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-04.jpg' },
+    { id: 6, title: 'Card #6', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://www.fluxdigital.co/wp-content/uploads/2015/04/Unsplash.jpg' },
+    { id: 7, title: 'Card #7', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-09.jpg' },
+    { id: 8, title: 'Card #8', description: 'This card shows cool stuff. Some random kravmaga facts, comes from Hebrew dialect. Meaning hand-to-hand combat.', uri: 'http://imgs.abduzeedo.com/files/paul0v2/unsplash/unsplash-01.jpg' }
+]
