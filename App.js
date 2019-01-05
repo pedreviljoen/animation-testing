@@ -1,15 +1,22 @@
 import React from 'react';
-import { StyleSheet, ScrollView, View } from 'react-native';
+import { StyleSheet, ScrollView, View, Text } from 'react-native';
 
 import Deck from './animate/Deck'
 import Wiggle from './animate/Wiggle'
+import AnimatedItem from './animate/AnimatedItem'
 
 export default class App extends React.Component {
   render() {
     return (
       
         <View style={styles.container}>
-          <Wiggle/>
+          <AnimatedItem
+            containerStyle={styles.animatedBox}
+          >
+            <Text>
+              Click me to open some options
+            </Text>
+          </AnimatedItem>
         </View>
       
     );
@@ -22,6 +29,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-    marginTop: 15
+    marginTop: 30
   },
+  animatedBox: {
+    height: 100,
+    backgroundColor: '#38C8EC'
+  }
 });

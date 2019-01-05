@@ -118,7 +118,6 @@ const styles = StyleSheet.create({
     height: 50,
     width: SCREEN_WIDTH,
     position: 'relative',
-    
     margin: 10
   }
 })

@@ -1,7 +1,7 @@
 # Animation testing
 
 <div align="center" width="50%">
-	<img src="assets/wiggle.gif" alt="Wiggle">
+	<img src="assets/wiggle.gif" alt="Wiggle" height="450px">
 </div>
 
 # About
