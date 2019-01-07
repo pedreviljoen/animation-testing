@@ -1,5 +1,7 @@
 # Animation testing
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pedreviljoen/animation-testing.svg)](https://greenkeeper.io/)
+
 <div align="center" width="50%">
 	<img src="assets/wiggle.gif" alt="Wiggle" height="450px">
 </div>
