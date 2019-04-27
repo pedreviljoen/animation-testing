@@ -4537,10 +4537,10 @@ react-native-screens@1.0.0-alpha.19:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.19.tgz#ecf3c9023e169b7013266d40b9c5599f37667f6d"
   integrity sha512-+a7GdwzLWYWYVUJMg+XuyBoRFGD8GdGyBfebuTNBY+xwUZpTXCaK/GlLGL6EE3h0iBHZu83do7zViEailWRNyA==
 
-react-native-side-drawer@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-side-drawer/-/react-native-side-drawer-1.1.2.tgz#727990282448c06e4148b6a2aa4bed446423b098"
-  integrity sha512-B+UKU/bFq3XmOK85w0GdUQ/tuWQeB6B6nZDPHof8GttsekMABDVFJt25pLNKA+Esr/he9xNnFOT7QinKLXSsag==
+react-native-side-drawer@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-side-drawer/-/react-native-side-drawer-1.1.4.tgz#5d0b840382d5349db3a0700319f245fbfea1d3b5"
+  integrity sha512-HgkxATQgQV5H1l9uAZpixEKYlXs2V9tQtj4cAQuLATFBYo+OMOPLALku9GYsNhmX8xx8ZKs8b/wrxqiFw0FyqA==
   dependencies:
     prop-types "^15.6.2"
 
