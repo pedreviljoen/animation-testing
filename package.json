@@ -11,7 +11,7 @@
     "react": "16.7.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-elements": "^1.2.0",
-    "react-native-side-drawer": "^1.1.2"
+    "react-native-side-drawer": "^1.2.5"
   },
   "devDependencies": {
     "babel-preset-expo": "^6.0.0"
