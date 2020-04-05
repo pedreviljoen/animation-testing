@@ -4975,7 +4975,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2:
+prop-types@15.6.2, prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2:
   version "15.6.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.2.tgz#05d5ca77b4453e985d60fc7ff8c859094a497102"
   integrity sha512-3pboPvLiWD7dkI3qf3KbUe6hKFKa52w+AE0VCqECtf+QHAKgOL37tTaNCnuX1nAAQ4ZhyP+kYVKf8rLmJ/feDQ==
@@ -5138,12 +5138,12 @@ react-native-screens@1.0.0-alpha.22:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.22.tgz#7a120377b52aa9bbb94d0b8541a014026be9289b"
   integrity sha512-kSyAt0AeVU6N7ZonfV6dP6iZF8B7Bce+tk3eujXhzBGsLg0VSLnU7uE9VqJF0xdQrHR91ZjGgVMieo/8df9KTA==
 
-react-native-side-drawer@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-side-drawer/-/react-native-side-drawer-1.1.2.tgz#727990282448c06e4148b6a2aa4bed446423b098"
-  integrity sha512-B+UKU/bFq3XmOK85w0GdUQ/tuWQeB6B6nZDPHof8GttsekMABDVFJt25pLNKA+Esr/he9xNnFOT7QinKLXSsag==
+react-native-side-drawer@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/react-native-side-drawer/-/react-native-side-drawer-1.2.6.tgz#bb34282ca0db0c21ce238435532fd9a9580ede0a"
+  integrity sha512-ZVMaCNvZ5YA3lyyoKlvByDvM2641trA9b/Fbp5vUOscjoYZRpAM4lGH6wq0QvfUB8nIqeJnkNVJokvjT4m5SRw==
   dependencies:
-    prop-types "^15.6.2"
+    prop-types "15.6.2"
 
 react-native-status-bar-height@^2.2.0:
   version "2.4.0"
