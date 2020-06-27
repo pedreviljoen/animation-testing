@@ -7,8 +7,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "react": "16.9.0",
     "expo": "^33.0.4",
-    "react": "16.7.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-elements": "^2.0.0",
     "react-native-side-drawer": "^1.1.2"
